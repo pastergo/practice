@@ -2,7 +2,6 @@
 #include <algorithm>
 #include <list>
 using namespace std;
-#define LIST_SIZE 3
 
 template< typename T >
 int searchListElement(const list<T>& l, const T el){
