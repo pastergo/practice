@@ -4,8 +4,6 @@ using namespace std;
 #define QUANTITY 7
 #define CAPACITY 32
 
-class Item(){};
-
 // Item STRUCT Items{
 //     STONE = "stone", 20, 2;
 //     WOOD = "wood", 10, 5;
